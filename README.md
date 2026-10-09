@@ -162,8 +162,8 @@ The expected outcome is a working prototype that combines predictive analytics, 
 
 **Project:** PricePilot AI
 **Event:** KLE TECH HACKFEST 2026
-**Team:** To be added
-**Team Leader:** To be added
+**Team:** PromptForge
+**Team Leader:** Rakshita Machakanur
 
 ## 📄 License
 
